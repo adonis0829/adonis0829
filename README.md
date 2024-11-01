@@ -1,9 +1,3 @@
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;I'm+Lucas+Costa...;A+Full-Stack+developer;Nice+to+meet+you!&center=true&size=30&color=fe428e">
-  </a>
-</h1>
-
 # 💫 About Me:
 💡 I’m Lucas Costa,  Full Stack Web Developer proficient in fundamental front-end languages and server-side
 languages <br> 🌱 I’m currently working on FrontEnd work<br>
