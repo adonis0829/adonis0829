@@ -1,8 +1,7 @@
 # 💫 About Me:
-💡 I’m Lucas Costa,  Full Stack Web Developer proficient in fundamental front-end languages and server-side
+💡 I’m Sergey Ivanichenko,  Full Stack Web Developer proficient in fundamental front-end languages and server-side
 languages <br> 🌱 I’m currently working on FrontEnd work<br>
 💬 Ask me about React, React Native, Angular, Vue, Python, PHP , Laravel<br>
-📫 You can contact me at devnclucas@gmail.com
 
 <table>
   <thead>
